@@ -21,6 +21,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 ### Como rodar os testes
 
 1 - Execute o comando
+
     npm test
 
 #### Desafios
