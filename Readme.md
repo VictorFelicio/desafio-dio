@@ -18,6 +18,11 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
     npm run dev
 
+### Como rodar os testes
+
+1 - Execute o comando
+    npm test
+
 #### Desafios
 [ ] Implementar os métodos de depósito (deposit) e saque (withdraw) na classe DioAccount
   - Os valores dos saldos devem ser alterados, de acordo com o valor informado para depósito
