@@ -1,4 +1,4 @@
-import { DioAccount } from "./DioAccount"
+import { DioAccount } from "../DioAccount/DioAccount"
 
 export class PeopleAccount extends DioAccount {
   doc_id: number
